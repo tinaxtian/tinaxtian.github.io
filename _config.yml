@@ -76,7 +76,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "tina.tian@sauder.ubc.ca"
+      url: "mailto:tina.tian@sauder.ubc.ca"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/tina-xi-tian-a881218a/"
