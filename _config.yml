@@ -68,14 +68,14 @@ plugins:
 
 author:
   name   : "Tina Tian"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile.jpg"
   bio    : "PhD Candidate in Finance"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-link"
-      url: "949639377@qq.com"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto: tina.tian@sauder.ubc.ca"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/tina-xi-tian-a881218a/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
